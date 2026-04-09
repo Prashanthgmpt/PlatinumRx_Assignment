@@ -35,7 +35,7 @@ This project demonstrates my skills in:
 5.Submission Links
 - GitHub Repository: https://github.com/prashanthgmpt/PlatinumRx_Assignment
 - Spreadsheet: https://docs.google.com/spreadsheets/d/1WE279l79uSgBZ-169uYO81hZr6jgrlluEl_XjFwDs3o/edit?usp=sharing
-- Screen Recording: 
+- Screen Recording: https://drive.google.com/file/d/1KfhJYQU6AZLY5zslkegCCDm5EhgF5mli/view?usp=drivesdk
 
 6.About Me
 I am a passionate aspiring Data Analyst with strong fundamentals in SQL, Python, and Web Development. I enjoy solving real-world data problems and continuously improving my skills.
