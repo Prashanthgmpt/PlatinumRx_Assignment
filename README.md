@@ -1,50 +1,41 @@
 # PlatinumRx Data Analyst Assignment
 
-## 📌 Overview
+1.Overview
 This project demonstrates my skills in:
 - SQL (Database design & querying)
 - Excel / Google Sheets (Data analysis)
 - Python (Problem solving & logic building)
 
----
+2.Project Structure
 
-## 🗂 Project Structure
-
-### 🔹 SQL
+#SQL
 - Hotel Management System
 - Clinic Management System
 - Includes schema creation & analytical queries
 
-### 🔹 Spreadsheets
+#Spreadsheets
 - Ticket & Feedback analysis
 - Used VLOOKUP / INDEX-MATCH
 - Time-based analysis (same day / same hour)
 
-### 🔹 Python
+#Python
 - Time conversion (minutes → hours & minutes)
 - Remove duplicate characters from string
 
----
-
-## ⚙️ Tools Used
+3. Tools Used
 - MySQL / SQLite
 - Google Sheets / Excel
 - Python
 
----
-
-## 🚀 Key Highlights
+4.Key Highlights
 - Used JOIN, GROUP BY, HAVING, Window Functions
 - Applied data linking using lookup functions
 - Clean folder structure for real-world projects
 
----
+5.Submission Links
+- GitHub Repository: https://github.com/prashanthgmpt/PlatinumRx_Assignment
+- Spreadsheet: https://docs.google.com/spreadsheets/d/1WE279l79uSgBZ-169uYO81hZr6jgrlluEl_XjFwDs3o/edit?usp=sharing
+- Screen Recording: 
 
-## 📎 Submission Links
-- GitHub Repository: (this repo)
-- Spreadsheet: [Add your Google Sheet link here]
-
----
-
-## 🙋‍♂️ About Me
+6.About Me
 I am a passionate aspiring Data Analyst with strong fundamentals in SQL, Python, and Web Development. I enjoy solving real-world data problems and continuously improving my skills.
